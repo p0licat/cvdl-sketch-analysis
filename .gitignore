@@ -1,2 +1,3 @@
 ./dataset/**
 *.png
+.ipynb_checkpoints/DataGenerator-checkpoint.ipynb
