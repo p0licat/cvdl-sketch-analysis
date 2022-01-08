@@ -4,6 +4,6 @@
 
 ### Team: Septimiu Bodică
 
-### Paper/Documentation: https://www.overleaf.com/read/myjtgpfqctwd
+### Paper/Documentation: https://www.overleaf.com/read/pvdpdskkstgk
 
 ### Repo: https://github.com/p0licat/cvdl-sketch-analysis
