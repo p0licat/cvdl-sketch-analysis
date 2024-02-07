@@ -1,9 +1,3 @@
-## Project
+## Computer Vision Project
 
-# Work in progress... git repo will be updated before deadline and submission edited when complete.
-
-### Team: Septimiu Bodică
-
-### Paper/Documentation: https://www.overleaf.com/read/pvdpdskkstgk
-
-### Repo: https://github.com/p0licat/cvdl-sketch-analysis
+Using Tensorflow and Python, some trained machine learning models are scripted here. Some of the techniques used are defining the model (either Keras or TF), creating a DataSource, some event-driven hooks for each training epoch, and data processing. I can't remember if I did finetuning for this one, but my preferred way of doing it is to freeze layers and preprocess the dataset according to the input head. 
